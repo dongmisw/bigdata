@@ -1,0 +1,12 @@
+1. jdk설치
+2. JAVA_HOME setting 
+3. 제어판 - 시스템 환경 변수 편집 -환경변수
+새 새스템변수
+1)변수이름 : JAVA_HOME
+변수값: C:\Program Files\Java\jdk1.8.0_202
+2) 변수이름: Path (시스템변수- Path)
+변수값 : C:\Program Files\Java\jdk1.8.0_202\bin
+
+검색 - cmd
+java -version 
+

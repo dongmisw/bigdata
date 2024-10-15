@@ -1,0 +1,22 @@
+# graph 관련 warning 이 나오지 않게 세팅하기
+import warnings
+warnings.filterwarnings(action='ignore')
+
+#warning이 원래 기본 세팅으로 변경하기 (기본세팅 = warning 표시)
+#warnings.filterwarnings(action='default') 
+
+#2. 한글 폰트 설정
+# 시각화 모듈 임포트
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# unicode minus를 사용하지 않기 위한 설정 (minus 깨짐현상 방지)
+plt.rcParams['axes.unicode_minus'] = False
+
+# font를 나눔고딕으로 세팅 'NanumGothic'  - windows
+plt.rcParams['font.family'] = 'NanumGothic'
+
+# 맑은고딕 - windows
+#plt.rcParams['font.family'] = 'Malgun Gothic'
+# 애플고딕 - Mac OS
+#plt.rcParams['font.family'] = 'AppleGothic'

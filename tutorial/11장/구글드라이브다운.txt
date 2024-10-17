@@ -1,0 +1,5 @@
+SIG.geojson 
+https://drive.google.com/file/d/13l9cTHMJdlbFgbbfzKPkREwgHThWv9_L/view?usp=drive_link
+
+11장_jupyternotebook
+https://drive.google.com/file/d/1K1g3rRCtgg7HoGKzhlhB7sdNQmdD1FfD/view?usp=drive_link

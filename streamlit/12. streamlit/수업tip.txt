@@ -1,0 +1,42 @@
+PS C:\Users\User\DAworkspace> cd Day7
+   
+cd streamlit
+ls
+streamlit run 3.py
+
+# 주석 ctrl + /
+# selectbox가 있음
+#  multiselect가 있음.
+
+# select box 에서 여러 변수를 입력 받기
+# 1) group - manufacturer, category, drv
+# 2) 연비 종류 - hwy, city
+# 3) 함수 - mean, count, max, min, sum
+
+#0. sidebar select box에서 데이터를 한정시킴 (manufacturer를 선택)
+#1. tab으로 여러 값을 나타냄
+#2. tab1 - drv별 city 평균, 그래프
+#3. tab2 - category 별로 highway별로 평균 연비 
+#4. tab3 - category 별로 모든 데이터 확인하기
+ 
+
+
+
+
+
+# list1 = mpg['manufacturer'].unique().tolist()
+# st.header(list1)
+# list1.append('all')
+# st.header(list1)
+
+# company = st.sidebar.selectbox('원하는 자동차회사를 선택하세요.', list1)
+# if company == 'all':
+#     mpg_selected_manufacturer = mpg.copy()
+# else:
+#     mpg_selected_manufacturer = mpg.query('manufacturer == @company')    
+ 
+# st.dataframe(mpg_selected_manufacturer)
+
+#ctrl + s - 저장
+#화면 reload
+

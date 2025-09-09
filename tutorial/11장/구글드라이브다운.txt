@@ -2,4 +2,7 @@ SIG.geojson
 https://drive.google.com/file/d/13l9cTHMJdlbFgbbfzKPkREwgHThWv9_L/view?usp=drive_link
 
 11장_jupyternotebook
-https://drive.google.com/file/d/1K1g3rRCtgg7HoGKzhlhB7sdNQmdD1FfD/view?usp=drive_link
+https://drive.google.com/file/d/1HYwCALGMAN_0solDgepzPT9VZylgMyJI/view?usp=drive_link
+
+11장 html 강의자료
+https://drive.google.com/file/d/1csHt5nBXfdXmpPJjpDmZ1kexoxc2Il4I/view?usp=drive_link
